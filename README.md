@@ -24,6 +24,6 @@
 
 * Run src/parser/TimeTableParser.java to parse the online time table.
 
-* Run src/view/UIMainPage to start the application.
+* Run src/view/UIMainPage.java to start the application.
 
 ![search](src/img/ui.png)
