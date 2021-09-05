@@ -6,6 +6,7 @@
 
 #### Environment
 
+* OS: macOS
 * MySQL 8.0 @ 127.0.0.1:3306
 * JDK: 1.8.0
 * IDE: Ecplise
